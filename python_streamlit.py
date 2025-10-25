@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import streamlit as st
 
-os.add_dll_directory(r'C:\Users\YashwanthS\AppData\Local\Programs\Python\Python313\Lib\site-packages\clidriver\bin')
+#os.add_dll_directory(r'C:\Users\YashwanthS\AppData\Local\Programs\Python\Python313\Lib\site-packages\clidriver\bin')
 import ibm_db
 print("ibm_db imported successfully")
 # Replace with your DB2 connection details
