@@ -1,0 +1,7 @@
+
+
+
+streamlit
+pandas
+ibm_db
+openpyxl
